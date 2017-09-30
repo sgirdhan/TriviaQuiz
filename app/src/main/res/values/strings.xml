@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Homework04</string>
+    <string name="buttonExitLabel">Exit</string>
+    <string name="buttonStartLabel">Start Trivia</string>
+    <string name="textWelcome">Welcome to Trivia App</string>
+    <string name="textLoading">Loading Trivia</string>
+    <string name="textReady">Trivia Ready</string>
+    <string name="toastNoConnection">No Internet Connection</string>
+    <string name="buttonQuitLabel">Quit</string>
+    <string name="buttonNext">Next</string>
+    <string name="textProgressLoadingImageLabel"> Loading Image</string>
+    <string name="textStatsTitle">Trivia Stats</string>
+    <string name="textCorrectAnswersLabel">Correct Answers</string>
+    <string name="textTryAgain">Try again and see if you can get all the correct answers!</string>
+    <string name="buttonTryAgainLabel">Try Again</string>
+    <string name="textTimeLeft">Time Left:         </string>
+    <string name="textSeconds"> seconds</string>
+    <string name="toastNoDatabase">No Questions found in the database</string>
 </resources>
