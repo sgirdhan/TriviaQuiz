@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Homework04</string>
+    <string name="app_name">Trivia</string>
     <string name="buttonExitLabel">Exit</string>
     <string name="buttonStartLabel">Start Trivia</string>
     <string name="textWelcome">Welcome to Trivia App</string>
@@ -12,8 +12,10 @@
     <string name="textStatsTitle">Trivia Stats</string>
     <string name="textCorrectAnswersLabel">Correct Answers</string>
     <string name="textTryAgain">Try again and see if you can get all the correct answers!</string>
+    <string name="textAllCorrect">Awesome!! You got all the right answers</string>
     <string name="buttonTryAgainLabel">Try Again</string>
     <string name="textTimeLeft">Time Left:         </string>
     <string name="textSeconds"> seconds</string>
     <string name="toastNoDatabase">No Questions found in the database</string>
+    <string name="stats_activity_name">Statistics</string>
 </resources>

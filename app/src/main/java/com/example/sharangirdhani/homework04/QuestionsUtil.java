@@ -34,7 +34,7 @@ public class QuestionsUtil {
                         choices.add(choiceJSONArray.getString(j));
                     }
                     question.setChoices(choices);
-                    question.setAnswer(choiceJSONObject.getString("answer"));
+                    question.setAnswer(choiceJSONObject.getInt("answer"));
                 }
                 questionsArrayList.add(question);
             }

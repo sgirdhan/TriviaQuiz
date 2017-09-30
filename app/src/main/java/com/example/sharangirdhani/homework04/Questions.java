@@ -7,7 +7,7 @@ public class Questions implements Serializable {
     String text;
     String image;
     ArrayList<String> choices;
-    String answer;
+    int answer;
 
 
     public String getText() {
@@ -34,11 +34,11 @@ public class Questions implements Serializable {
         this.choices = choices;
     }
 
-    public String getAnswer() {
+    public int getAnswer() {
         return answer;
     }
 
-    public void setAnswer(String answer) {
+    public void setAnswer(int answer) {
         this.answer = answer;
     }
 
