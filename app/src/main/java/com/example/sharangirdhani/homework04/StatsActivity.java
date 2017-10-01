@@ -1,3 +1,10 @@
+/*
+ Homwork 4
+ StatsActiviy
+ Sharan Girdhani     - 800960333
+ Salman Mujtaba   - 800969897
+*/
+
 package com.example.sharangirdhani.homework04;
 
 import android.content.Intent;
